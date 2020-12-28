@@ -7,14 +7,13 @@
 эффект с эффектом, который был бы получен в результате коммуникаций с тем же количеством клиентов, отобранных
 по наибольшему скору модели.
 
-Минимальная жизнеспособная чать программы состоит из трёх файлов: useful_tool.py и двух файлов данных ("scored_client_base_part1.zip" и "scored_client_base_part2.zip").
+Минимальная жизнеспособная чаcть программы состоит из трёх файлов: useful_tool.py и двух файлов данных ("scored_client_base_part1.zip" и "scored_client_base_part2.zip"). Файлы данных должны быть в той же директории, что и useful_tool.py. 
 
 Запуск происходит в Jupyter notebook (runner.ipynb) таким кодом:
 ```python
 from useful_tool import useful_tool
 useful_tool()
 ```
-Для запуска требуется иметь файлы "scored_client_base_part1.zip" и "scored_client_base_part2.zip" в той же дирректории, что и useful_tool.py
 
 Вначале интерфейс выглядит так:
 
