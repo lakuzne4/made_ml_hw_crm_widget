@@ -9,7 +9,7 @@
 
 Минимальная жизнеспособная чать программы состоит из трёх файлов: useful_tool.py и двух файлов данных ("scored_client_base_part1.zip" и "scored_client_base_part2.zip").
 
-Запуск происходит в Jupyter notebook таким кодом:
+Запуск происходит в Jupyter notebook (runner.ipynb) таким кодом:
 ```python
 from useful_tool import useful_tool
 useful_tool()
