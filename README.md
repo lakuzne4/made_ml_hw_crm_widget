@@ -15,7 +15,7 @@ from useful_tool import useful_tool
 useful_tool()
 ```
 
-Вначале интерфейс выглядит так:
+В начале интерфейс выглядит так:
 
 <img src="screenshots/Начальный_интерфейс.png" width=700>
 
